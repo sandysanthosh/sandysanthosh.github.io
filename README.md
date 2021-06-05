@@ -1,27 +1,27 @@
 
 #### Starwalt:
 
-https://starwalt.in
+https://starwalt.github.io/
 
 #### Interior Company:
 
-https://starwalt.in/interiror/index.html
+https://starwalt.github.io/interiror/index.html
 
 #### Starwalt Blog:
 
-https://starwalt.in/blog
+https://starwalt.github.io/blog
 
 #### Starwalt Bicycle:
 
-https://starwalt.in/bicycle/
+https://starwalt.github.io/bicycle/
 
 #### Starwalt Watch:
 
-https://starwalt.in/Watch/
+https://starwalt.github.io/Watch/
 
 #### Starwalt Restro:
 
-https://starwalt.in/restro/
+https://starwalt.github.io/restro/
 
 #### Let Us Handle Everything.
 
